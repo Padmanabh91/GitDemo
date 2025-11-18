@@ -35,5 +35,15 @@ public class Demo {
 		System.out.println("API Automation");
 		System.out.println("Web Automation");
 	}
+	public void display4()
+	{
+		System.out.println("API Automation");
+		System.out.println("Web Automation");
+	}
+	public void display5()
+	{
+		System.out.println("API Automation");
+		System.out.println("Web Automation");
+	}
 
 }
