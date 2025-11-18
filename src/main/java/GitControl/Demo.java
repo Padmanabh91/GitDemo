@@ -20,7 +20,17 @@ public class Demo {
 
 	}
 	
-	public void display()
+	public void display1()
+	{
+		System.out.println("API Automation");
+		System.out.println("Web Automation");
+	}
+	public void display2()
+	{
+		System.out.println("API Automation");
+		System.out.println("Web Automation");
+	}
+	public void display3()
 	{
 		System.out.println("API Automation");
 		System.out.println("Web Automation");
