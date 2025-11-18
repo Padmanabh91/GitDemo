@@ -1,5 +1,7 @@
 package GitControl;
 
+import io.opentelemetry.exporter.logging.SystemOutLogRecordExporter;
+
 public class Demo {
 
 	public static void main(String[] args) {
@@ -16,6 +18,12 @@ public class Demo {
 
 			
 
+	}
+	
+	public void display()
+	{
+		System.out.println("API Automation");
+		System.out.println("Web Automation");
 	}
 
 }
